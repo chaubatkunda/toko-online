@@ -3,7 +3,7 @@
 Download atau clone project dari github:
 
 ```sh
-git clone
+git clone https://github.com/chaubatkunda/toko-online.git
 ```
 
 ```sh
