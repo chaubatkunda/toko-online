@@ -1,5 +1,9 @@
 ## Website Toko Online
 
+#### requires
+
+php 7.2
+
 Download atau clone project dari github:
 
 ```sh
